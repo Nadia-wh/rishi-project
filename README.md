@@ -1,1 +1,2 @@
-# rishi-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
